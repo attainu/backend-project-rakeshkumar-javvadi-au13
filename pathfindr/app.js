@@ -15,7 +15,7 @@ const userRoutes = require('./routes/users');
 const schoolRoutes = require('./routes/schools');
 const reviewRoutes = require('./routes/reviews');
 
-mongoose.connect('mongodb://localhost:27017/data', {
+mongoose.connect('mongodb+srv://rakeshkumarjavvadi:qwerty@143@cluster0.d2qk9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useCreateIndex: true,
     useUnifiedTopology: true,
