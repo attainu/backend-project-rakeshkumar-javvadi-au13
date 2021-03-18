@@ -1,7 +1,6 @@
+# "Path Findr"
 
-    # "Path Findr"
-
-    ## Right Education Need Right School
+## Right Education Need Right School
 
 **Project Name - Path Findr** [website link!]  https://path-findr.herokuapp.com/
 
@@ -11,16 +10,32 @@
 schools can register themselves. This tool not only allows school to promote themselves
 but also help parents to choose a right school for their ward.**
 
+## Objective
+
+**A better education comes from a better school and finding a right school is the one of the
+toughest job for a PARENTS which includes choice of curriculum, extra-curricular activities, 
+tuition fee, availability of transportation, etc.
+A one stop PATH FINDR can help parents to get all the required
+information about the schools. The feedbacks, reviews, on this platform is a great help for 
+them before coming to a conclusion.The interface will be designed for a seamless interaction.
+Once selecting a school for their child they can contact direct to the management with the details 
+provided in our app.**
+
 ## Table Of Contents
 
 ```
-❖ home
-❖ schools
-❖ new school
-❖ admin
-❖ register
-❖ login
-❖ logout
+❖ HOME
+❖ VIEW SCHOOL
+❖ LOGIN
+❖ REGISTER
+❖ ADMIN
+❖ ADD/EDIT/DELETE SCHOOL
+❖ ADD/DELETE SCHOOL PICS
+❖ ADD/DELETE REVIEWS
+❖ DELETE SCHOOL
+
+
+
 
 ```
 
@@ -53,44 +68,44 @@ but also help parents to choose a right school for their ward.**
 ## What all features are included in PathFindr?
 
 ```
-➢ Home page :User can see Login ,Register,Admin and ViewSchools in home page .
-   By clicking on view the school option user can see all school and there details without login to our app. 
+➢ Home page :Here you can see Login ,Register,Admin and ViewSchools options in home page .
+   By clicking on "View School" option user can see all school and there details without login to our app. 
    
 ➢  Register : Users register themselves and Admin register first time to add school .
 
-➢  Login : With login users can give reviews to the school and admin can add school .
+➢  Login : login users can give reviews to the school and admin can add school .
 
 ➢  After a successful register and login, the page will redirect to the 
     Home page , and the logout option shows in place of login button.
 
-```
 
-## user point of view
 
-```
+## USERS FEATURES 
+
+
 ➢ Users without login can see all the school information but if they want to
-  give review they have login first.
+  give review they have to login first.
  
 ➢ If user want to delete there review they can delete it
 
-```
 
-## admin point of view
 
-```
+## ADMIN FEATURES
 
-➢ Admin can add there school by clicking admin option in the Home page.
+
+
+➢ Admin can add there school by clicking "Admin" option in the Home page.
   After getting to Admin page there is an option to ADD SCHOOL.
   But if admin didn't login they can't add school.First they have to login and 
-  then click on add school .Now admin get Add SCHOOL page there Admin 
-  can give details of school and submit it.
+  then click on add school .Now admin get Add SCHOOL page. here admin 
+  give details of school and submit it.
 
 ➢ ALL SCHOOLS Page : Here User see the all the school with basic information about the school .
-                   If they want to see more details about the school they have to click view
+                   If they want to more details about the school they have to click "view"
                    option of that school.
                    
 ➢ VIEW SCHOOL PAGE : In this page User can see all the details and images of that particular school 
-                     and give there rating and reviews .If that School added by Admin they see more
+                     and give there rating and reviews .If that School added by Admin they can see more
                      option of edit / delete. And Admin can't give reviews to his schools.
 
 ➢ EDIT SCHOOL PAGE: Here Admin can edit School details and add more images or delete existing images.
@@ -122,7 +137,7 @@ but also help parents to choose a right school for their ward.**
 
 ```
 ➢  There is always some room for improvement, we add SEARCH option to seach city wise
-➢ list of school or directly search school name.
+    list of school or directly search school name.
 
 ➢ And add some addition feature directly in the admin page .
 
